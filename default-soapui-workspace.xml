@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.7.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Project 1">C:/Users/06921M744/Documents/National Grid/My Study/SOAP Sample projects/SOAPUI_Projects-master/SOAPUI_Projects-master/MyProjectReport/StudentDetails-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
